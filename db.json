@@ -1,0 +1,287 @@
+{
+  "dataKaryawan": [
+    {
+      "Personal": {
+        "Id": 1,
+        "NamaPanjang": "Muhammad Rizki Albiansyah",
+        "NamaPanggilan": "Rizki",
+        "TempatTanggalLahir": "Jakarta, 12 Oktober 1992",
+        "AlamatKTP": "Jl. Pemuda No. 18",
+        "Divisi": "Divisi Information Technology",
+        "Agama": "Islam",
+        "PendidikanTerakhir": "S1",
+        "NamaUniversitas": "Gajah Mada",
+        "NoHp": "08123456789",
+        "Email": "rizki@gmail.com",
+        "NoKtp": "320129387123",
+        "Npwp": "MPAMS0192387-2821",
+        "GolonganDarah": "A",
+        "Role": "IT Specialist",
+        "AkunInstagram": "rizkiAlbian",
+        "AkunFacebook": "Mrizzz",
+        "Blog": "rizkialbiansyah.com",
+        "Perusahaan": "PT. XYZ",
+        "Password": "R1ZK14l5i4nsy4h"
+      },
+      "Parents": {
+        "NamaAyah": "Aldi Prasetyo",
+        "AlamatAyah": "Jl. Raya No. 2",
+        "TeleponAyah": "08123456789",
+        "PekerjaanAyah": "Pengusaha Bisnis",
+        "PendidikanTerakhirAyah": "S3",
+        "NamaIbu": "Sheila Maharani Pratama",
+        "AlamatIbu": "Jl. Raya No. 2",
+        "TeleponIbu": "08123456789",
+        "PekerjaanIbu": "PNS",
+        "PendidikanTerakhirIbu": "S2"
+      },
+      "Bank": {
+        "NamaPemilikBank": "Rizki",
+        "NamaBank": "BNI",
+        "KodeBank": "896",
+        "NoRekening": "981723616238",
+        "KCP": "Mandiri"
+      },
+      "Address": {
+        "Alamat": "Jl. Raya No. 1"
+      },
+      "Emergency": {
+        "NamaLengkap": "Kartika Sari Ayu",
+        "Alamat": "Jl. Pemuda No. 18",
+        "Hubungan": "Istri",
+        "Telepon": "0812341209386"
+      }
+    },
+    {
+      "Personal": {
+        "Id": 2,
+        "NamaPanjang": "Aulia Rahmawati",
+        "NamaPanggilan": "Aulia",
+        "TempatTanggalLahir": "Bandung, 25 Januari 1995",
+        "AlamatKTP": "Jl. Merdeka No. 45",
+        "Divisi": "Divisi Information Technology",
+        "Agama": "Islam",
+        "PendidikanTerakhir": "S2",
+        "NamaUniversitas": "Universitas Indonesia",
+        "NoHp": "08198765432",
+        "Email": "aulia@gmail.com",
+        "NoKtp": "320456789123",
+        "Npwp": "MPAMS0194567-1234",
+        "GolonganDarah": "B",
+        "Role": "Application Analyst",
+        "AkunInstagram": "auliaHR",
+        "AkunFacebook": "AuliaR",
+        "Blog": "auliarahmawati.com",
+        "Perusahaan": "PT. ABC",
+        "Password": "Auli4P@ssw0rd"
+      },
+      "Parents": {
+        "NamaAyah": "Rahman Santoso",
+        "AlamatAyah": "Jl. Sudirman No. 8",
+        "TeleponAyah": "08156789012",
+        "PekerjaanAyah": "Karyawan Swasta",
+        "PendidikanTerakhirAyah": "S2",
+        "NamaIbu": "Siti Aisyah",
+        "AlamatIbu": "Jl. Sudirman No. 8",
+        "TeleponIbu": "08156789012",
+        "PekerjaanIbu": "Ibu Rumah Tangga",
+        "PendidikanTerakhirIbu": "SMA"
+      },
+      "Bank": {
+        "NamaPemilikBank": "Aulia",
+        "NamaBank": "Mandiri",
+        "KodeBank": "123",
+        "NoRekening": "123456789123",
+        "KCP": "Bandung"
+      },
+      "Address": {
+        "Alamat": "Jl. Merdeka No. 45"
+      },
+      "Emergency": {
+        "NamaLengkap": "Fitri Handayani",
+        "Alamat": "Jl. Sukabumi No. 12",
+        "Hubungan": "Sahabat",
+        "Telepon": "08134567890"
+      }
+    },
+    {
+      "Personal": {
+        "Id": 3,
+        "NamaPanjang": "Andi Pratama",
+        "NamaPanggilan": "Andi",
+        "TempatTanggalLahir": "Surabaya, 5 Maret 1990",
+        "AlamatKTP": "Jl. Mawar No. 99",
+        "Divisi": "Divisi Marketing",
+        "Agama": "Kristen",
+        "PendidikanTerakhir": "S1",
+        "NamaUniversitas": "ITS Surabaya",
+        "NoHp": "08123456788",
+        "Email": "andi@gmail.com",
+        "NoKtp": "320789456123",
+        "Npwp": "MPAMS0197894-5678",
+        "GolonganDarah": "O",
+        "Role": "Marketing Specialist",
+        "AkunInstagram": "andiMarketing",
+        "AkunFacebook": "AndiP",
+        "Blog": "andipratama.com",
+        "Perusahaan": "PT. LMN",
+        "Password": "And1M4rk3t!ng"
+      },
+      "Parents": {
+        "NamaAyah": "Pratama Kusuma",
+        "AlamatAyah": "Jl. Mawar No. 101",
+        "TeleponAyah": "08123456789",
+        "PekerjaanAyah": "Wirausaha",
+        "PendidikanTerakhirAyah": "S1",
+        "NamaIbu": "Maria Kristina",
+        "AlamatIbu": "Jl. Mawar No. 101",
+        "TeleponIbu": "08123456789",
+        "PekerjaanIbu": "PNS",
+        "PendidikanTerakhirIbu": "S1"
+      },
+      "Bank": {
+        "NamaPemilikBank": "Andi",
+        "NamaBank": "BCA",
+        "KodeBank": "456",
+        "NoRekening": "456789123456",
+        "KCP": "Surabaya"
+      },
+      "Address": {
+        "Alamat": "Jl. Mawar No. 99"
+      },
+      "Emergency": {
+        "NamaLengkap": "Dewi Anggraini",
+        "Alamat": "Jl. Anggrek No. 77",
+        "Hubungan": "Istri",
+        "Telepon": "08198765432"
+      }
+    },
+    {
+      "Personal": {
+        "Id": 4,
+        "NamaPanjang": "Dina Amelia",
+        "NamaPanggilan": "Dina",
+        "TempatTanggalLahir": "Medan, 15 Juli 1993",
+        "AlamatKTP": "Jl. Kenanga No. 10",
+        "Divisi": "Divisi Finance",
+        "Agama": "Islam",
+        "PendidikanTerakhir": "S2",
+        "NamaUniversitas": "Universitas Sumatera Utara",
+        "NoHp": "08127654321",
+        "Email": "dina@gmail.com",
+        "NoKtp": "320654321987",
+        "Npwp": "MPAMS0196543-7890",
+        "GolonganDarah": "AB",
+        "Role": "Finance Manager",
+        "AkunInstagram": "dinaFinance",
+        "AkunFacebook": "DinaA",
+        "Blog": "dinaamelia.com",
+        "Perusahaan": "PT. DEF",
+        "Password": "D1n@F1nanc3!"
+      },
+      "Parents": {
+        "NamaAyah": "Amelia Kusuma",
+        "AlamatAyah": "Jl. Kenanga No. 11",
+        "TeleponAyah": "08127654322",
+        "PekerjaanAyah": "Pengusaha",
+        "PendidikanTerakhirAyah": "S1",
+        "NamaIbu": "Sri Hartati",
+        "AlamatIbu": "Jl. Kenanga No. 11",
+        "TeleponIbu": "08127654323",
+        "PekerjaanIbu": "Guru",
+        "PendidikanTerakhirIbu": "S1"
+      },
+      "Bank": {
+        "NamaPemilikBank": "Dina",
+        "NamaBank": "BRI",
+        "KodeBank": "789",
+        "NoRekening": "789654321789",
+        "KCP": "Medan"
+      },
+      "Address": {
+        "Alamat": "Jl. Kenanga No. 10"
+      },
+      "Emergency": {
+        "NamaLengkap": "Lia Pramesti",
+        "Alamat": "Jl. Melati No. 15",
+        "Hubungan": "Kakak",
+        "Telepon": "08123409876"
+      }
+    }
+  ],
+  "Kegiatan":[
+    {
+      "Id": 1,
+      "AddTask": "03-11-2024",
+      "Type": "Setup",
+      "Deskripsi": "create db bckl,bckp,bckm, setting pc bckm,bckp, patching hotfix",
+      "Location": "Store",
+      "Activities": {
+        "Start": "09:00",
+        "End": "20:30"
+      },
+      "PemberiTugas": "Direct Instruction",
+      "Status": "complete",
+      "Pengguna": "Rizki",
+      "Catatan": ""
+    },
+    {
+      "Id": 2,
+      "AddTask": "08-12-2024",
+      "Type": "Project",
+      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+      "Complexity": "Med to High",
+      "Target": "20-01-2025",
+      "Activities": {
+        "Start": "10-12-2024",
+        "End": "21-01-2025"
+      },
+      "PemberiTugas": "PMO",
+      "Pengguna": "Bian",
+      "Status": "UAT",
+      "Catatan": ""
+    },
+    {
+      "Id": 3,
+      "AddTask": "01-11-2024",
+      "Type": "Rutin",
+      "ProjectName":"ETP ID",
+      "Deskripsi": "Report Missing Sales 30 Oktober 2024",
+      "Priority": "Medium",
+      "Target": "01-11-2024",
+      "Activities": {
+        "Start": "01-11-2024",
+        "End": "01-11-2024"
+      },
+      "PemberiTugas": "Teni",
+      "Pengguna": "Slamet",
+      "Status": "complete",
+      "Catatan": "Report Dialy"
+    }
+  ],
+  "Presensi":[
+    {
+      "Id": 1,
+      "Nama": "Rizki",
+      "Tanggal": "05-09-2024",
+      "Masuk":"07.00",
+      "Keluar":"17.00",
+      "Status":"Hadir"
+    },
+    {
+      "Id": 2,
+      "Nama": "Rizki",
+      "Tanggal": "06-09-2024",
+      "Status": "Sakit"
+    },
+    {
+      "Id": 3,
+      "Nama": "Rizki",
+      "Tanggal": "07-09-2024",
+      "Masuk":"09.00",
+      "Keluar":"15.00",
+      "Status":"Hadir",
+      "Ro": 1
+    }
+  ]
+}
