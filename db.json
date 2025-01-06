@@ -212,7 +212,7 @@
   "Kegiatan":[
     {
       "Id": 1,
-      "IdPekerja": "2",
+      "IdPekerja": "1",
       "AddTask": "03-11-2024",
       "Type": "Setup",
       "Deskripsi": "create db bckl,bckp,bckm, setting pc bckm,bckp, patching hotfix",
@@ -244,7 +244,7 @@
     },
     {
       "Id": 3,
-      "IdPekerja": "1",
+      "IdPekerja": "2",
       "AddTask": "01-11-2024",
       "Type": "Rutin",
       "ProjectName":"ETP ID",
