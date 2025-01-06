@@ -120,7 +120,7 @@
         "NoKtp": "320789456123",
         "Npwp": "MPAMS0197894-5678",
         "GolonganDarah": "O",
-        "Role": "Marketing Specialist",
+        "Role": "Data Engineer",
         "AkunInstagram": "andiMarketing",
         "AkunFacebook": "AndiP",
         "Blog": "andipratama.com",
@@ -227,7 +227,7 @@
     },
     {
       "Id": 2,
-      "IdPekerja": "4",
+      "IdPekerja": "3",
       "AddTask": "08-12-2024",
       "Type": "Ticketing",
       "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
