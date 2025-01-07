@@ -218,8 +218,8 @@
       "Deskripsi": "create db bckl,bckp,bckm, setting pc bckm,bckp, patching hotfix",
       "Location": "Store",
       "Activities": {
-        "Start": "09:00",
-        "End": "20:30"
+        "Start": "07-01-2025",
+        "End": "07-01-2025"
       },
       "PemberiTugas": "Direct Instruction",
       "Status": "complete",
