@@ -213,13 +213,13 @@
     {
       "Id": 1,
       "IdPekerja": "1",
-      "AddTask": "03/11/2024",
+      "AddTask": "11/03/2024",
       "Type": "Setup",
       "Deskripsi": "create db bckl,bckp,bckm, setting pc bckm,bckp, patching hotfix",
       "Location": "Store",
       "Activities": {
-        "Start": "07/01/2025",
-        "End": "07/01/2025"
+        "Start": "01/07/2025",
+        "End": "01/07/2025"
       },
       "PemberiTugas": "Direct Instruction",
       "Status": "Complete",
@@ -228,14 +228,14 @@
     {
       "Id": 2,
       "IdPekerja": "3",
-      "AddTask": "08/12/2024",
+      "AddTask": "12/08/2024",
       "Type": "Ticketing",
       "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
       "Complexity": "Med to High",
-      "Target": "20/01/2025",
+      "Target": "01/20/2025",
       "Activities": {
-        "Start": "10/12/2024",
-        "End": "21/01/2025"
+        "Start": "12/10/2024",
+        "End": "01/21/2025"
       },
       "PemberiTugas": "PMO",
       "User": "Management Team",
@@ -245,15 +245,15 @@
     {
       "Id": 3,
       "IdPekerja": "2",
-      "AddTask": "01/11/2024",
+      "AddTask": "11/01/2024",
       "Type": "Rutin",
       "ProjectName":"ETP ID",
       "Deskripsi": "Report Missing Sales 30 Oktober 2024",
       "Priority": "Medium",
-      "Target": "01/11/2024",
+      "Target": "11/01/2024",
       "Activities": {
-        "Start": "01/11/2024",
-        "End": "01/11/2024"
+        "Start": "11/01/2024",
+        "End": "11/01/2024"
       },
       "PemberiTugas": "Teni",
       "Status": "Complete",
@@ -262,13 +262,13 @@
     {
       "Id": 4,
       "IdPekerja": "4",
-      "AddTask": "05-11-2024",
+      "AddTask": "11/05/2024",
       "Type": "Opening Store Support",
       "Deskripsi": "Forum FAB Party bandar FQ30, DO42, KSQ6, SSFB, AX24",
-      "Target": "06-12-2024",
+      "Target": "12/06/2024",
       "Activities": {
-        "Start": "08/11/2024",
-        "End": "08/12/2024"
+        "Start": "11/08/2024",
+        "End": "12/08/2024"
       },
       "PemberiTugas": "Pak Purwo",
       "Status": "Finished",
