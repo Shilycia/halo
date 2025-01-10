@@ -219,21 +219,6 @@
   ],
   "Kegiatan":[
     {
-      "Id": 1,
-      "IdPekerja": "1",
-      "AddTask": "2024-11-03",
-      "Type": "Setup",
-      "Deskripsi": "create db bckl,bckp,bckm, setting pc bckm,bckp, patching hotfix",
-      "Location": "Store",
-      "Activities": {
-        "Start": "2025-01-07",
-        "End": "2025-01-07"
-      },
-      "PemberiTugas": "Direct Instruction",
-      "Status": "Complete",
-      "Catatan": ""
-    },
-    {
       "Id": 2,
       "IdPekerja": "3",
       "AddTask": "2024-12-08",
@@ -336,61 +321,4 @@
       "Catatan": ""
     },
     {
-      "Id": 3,
-      "IdPekerja": "2",
-      "AddTask": "2024-11-01",
-      "Type": "Rutin",
-      "ProjectName":"ETP ID",
-      "Deskripsi": "Report Missing Sales 30 Oktober 2024",
-      "Priority": "Medium",
-      "Target": "2024-11-01",
-      "Activities": {
-        "Start": "2024-11-01",
-        "End": "2024-11-01"
-      },
-      "PemberiTugas": "Teni",
-      "Status": "Complete",
-      "Catatan": "Report Dialy"
-    },
-    {
-      "Id": 4,
-      "IdPekerja": "4",
-      "AddTask": "2024-11-05",
-      "Type": "Opening Store Support",
-      "Deskripsi": "Forum FAB Party bandar FQ30, DO42, KSQ6, SSFB, AX24",
-      "Target": "12/06/2024",
-      "Activities": {
-        "Start": "2024-11-08",
-        "End": "2024-12-08"
-      },
-      "PemberiTugas": "Pak Purwo",
-      "Status": "Finished",
-      "Catatan": ""
-    }
-  ],
-  "Presensi":[
-    {
-      "Id": 1,
-      "Nama": "Rizki",
-      "Tanggal": "05-09-2024",
-      "Masuk":"07.00",
-      "Keluar":"17.00",
-      "Status":"Hadir"
-    },
-    {
-      "Id": 2,
-      "Nama": "Rizki",
-      "Tanggal": "06-09-2024",
-      "Status": "Sakit"
-    },
-    {
-      "Id": 3,
-      "Nama": "Rizki",
-      "Tanggal": "07-09-2024",
-      "Masuk":"09.00",
-      "Keluar":"15.00",
-      "Status":"Hadir",
-      "Ro": 1
-    }
-  ]
 }
