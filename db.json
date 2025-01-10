@@ -239,6 +239,91 @@
       "AddTask": "2024-12-08",
       "Type": "Ticketing",
       "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+      "Complexity": "Low",
+      "Target": "2025-01-20",
+      "Activities": {
+        "Start": "2024-12-10",
+        "End": "2025-01-21"
+      },
+      "PemberiTugas": "PMO",
+      "User": "Management Team",
+      "Status": "UAT",
+      "Catatan": ""
+    },
+    {
+      "Id": 3,
+      "IdPekerja": "3",
+      "AddTask": "2024-12-08",
+      "Type": "Ticketing",
+      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+      "Complexity": "Low to Med",
+      "Target": "2025-01-20",
+      "Activities": {
+        "Start": "2024-12-10",
+        "End": "2025-01-21"
+      },
+      "PemberiTugas": "PMO",
+      "User": "Management Team",
+      "Status": "UAT",
+      "Catatan": ""
+    },
+    {
+      "Id": 4,
+      "IdPekerja": "3",
+      "AddTask": "2024-12-08",
+      "Type": "Ticketing",
+      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+      "Complexity": "Medium",
+      "Target": "2025-01-20",
+      "Activities": {
+        "Start": "2024-12-10",
+        "End": "2025-01-21"
+      },
+      "PemberiTugas": "PMO",
+      "User": "Management Team",
+      "Status": "UAT",
+      "Catatan": ""
+    },
+    {
+      "Id": 5,
+      "IdPekerja": "3",
+      "AddTask": "2024-12-08",
+      "Type": "Ticketing",
+      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+      "Complexity": "Med to High",
+      "Target": "2025-01-20",
+      "Activities": {
+        "Start": "2024-12-10",
+        "End": "2025-01-21"
+      },
+      "PemberiTugas": "PMO",
+      "User": "Management Team",
+      "Status": "UAT",
+      "Catatan": ""
+    },
+    {
+      "Id": 6,
+      "IdPekerja": "3",
+      "AddTask": "2024-12-08",
+      "Type": "Ticketing",
+      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+      "Complexity": "High",
+      "Target": "2025-01-20",
+      "Activities": {
+        "Start": "2024-12-10",
+        "End": "2025-01-21"
+      },
+      "PemberiTugas": "PMO",
+      "User": "Management Team",
+      "Status": "UAT",
+      "Catatan": ""
+    },
+    {
+      "Id": 7,
+      "IdPekerja": "3",
+      "AddTask": "2024-12-08",
+      "Type": "Ticketing",
+      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
       "Complexity": "Med to High",
       "Target": "2025-01-20",
       "Activities": {
