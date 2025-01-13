@@ -22,7 +22,7 @@
         "Blog": "rizkialbiansyah.com",
         "Perusahaan": "PT. XYZ",
         "Password": "R1ZK14l5i4nsy4h",
-        "IdDevice": null,
+        "IdDevice": false,
         "Nip": "123"
       },
       "Parents": {
@@ -76,7 +76,7 @@
         "Blog": "auliarahmawati.com",
         "Perusahaan": "PT. ABC",
         "Password": "Auli4P@ssw0rd",
-        "IdDevice": "IAWhasda9",
+        "IdDevice": true,
         "Nip": "91287"
       },
       "Parents": {
@@ -184,7 +184,7 @@
         "Blog": "dinaamelia.com",
         "Perusahaan": "PT. DEF",
         "Password": "D1n@F1nanc3!",
-        "IdDevice": "Lpaspi89",
+        "IdDevice": true,
         "Nip": "412357"
       },
       "Parents": {
