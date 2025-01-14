@@ -1,307 +1,308 @@
 {
-  "dataKaryawan": [
-    {
-      "Personal": {
-        "Id": 1,
-        "NamaPanjang": "Muhammad Rizki Albiansyah",
-        "NamaPanggilan": "Rizki",
-        "TempatTanggalLahir": "Jakarta, 12 Oktober 1992",
-        "AlamatKTP": "Jl. Pemuda No. 18",
-        "Divisi": "Divisi Information Technology",
-        "Agama": "Islam",
-        "PendidikanTerakhir": "S1",
-        "NamaUniversitas": "Gajah Mada",
-        "NoHp": "08123456789",
-        "Email": "rizki@gmail.com",
-        "NoKtp": "320129387123",
-        "Npwp": "MPAMS0192387-2821",
-        "GolonganDarah": "A",
-        "Role": "IT Specialist",
-        "AkunInstagram": "rizkiAlbian",
-        "AkunFacebook": "Mrizzz",
-        "Blog": "rizkialbiansyah.com",
-        "Perusahaan": "PT. XYZ",
-        "Password": "R1ZK14l5i4nsy4h",
-        "IdDevice": false,
-        "Nip": "123"
+    "dataKaryawan": [
+      {
+        "Personal": {
+          "Id": 1,
+          "Nama_panjang": "Muhammad Rizki Albiansyah",
+          "Nama_panggilan": "Rizki",
+          "Tempat_tanggal_lahir": "Jakarta, 12 Oktober 1992",
+          "Alamat_KTP": "Jl. Pemuda No. 18",
+          "Divisi": "Divisi Information Technology",
+          "Agama": "Islam",
+          "Pendidikan_terakhir": "S1",
+          "Nama_universitas": "Gajah Mada",
+          "No_HP": "08123456789",
+          "Email": "rizki@gmail.com",
+          "No_KTP": "320129387123",
+          "NPWP": "MPAMS0192387-2821",
+          "Golongan_darah": "A",
+          "Role": "IT Specialist",
+          "Akun_instagram": "rizkiAlbian",
+          "Akun_facebook": "Mrizzz",
+          "Blog": "rizkialbiansyah.com",
+          "Perusahaan": "PT. XYZ",
+          "Password": "R1ZK14l5i4nsy4h",
+          "Id_device": false,
+          "NIP": "123"
+        },
+        "Parents": {
+          "Nama_ayah": "Aldi Prasetyo",
+          "Alamat_ayah": "Jl. Raya No. 2",
+          "Telepon_ayah": "08123456789",
+          "Pekerjaan_ayah": "Pengusaha Bisnis",
+          "Pendidikan_terakhir_ayah": "S3",
+          "Nama_ibu": "Sheila Maharani Pratama",
+          "Alamat_ibu": "Jl. Raya No. 2",
+          "Telepon_ibu": "08123456789",
+          "Pekerjaan_ibu": "PNS",
+          "Pendidikan_terakhir_ibu": "S2"
+        },
+        "Bank": {
+          "Nama_Pemilik_bank": "Rizki",
+          "Nama_bank": "BNI",
+          "Kode_bank": "896",
+          "No_rekening": "981723616238",
+          "KCP": "Mandiri"
+        },
+        "Address": {
+          "Alamat": "Jl. Raya No. 1"
+        },
+        "Emergency": {
+          "Nama_lengkap": "Kartika Sari Ayu",
+          "Alamat": "Jl. Pemuda No. 18",
+          "Hubungan": "Istri",
+          "Telepon": "0812341209386"
+        }
       },
-      "Parents": {
-        "NamaAyah": "Aldi Prasetyo",
-        "AlamatAyah": "Jl. Raya No. 2",
-        "TeleponAyah": "08123456789",
-        "PekerjaanAyah": "Pengusaha Bisnis",
-        "PendidikanTerakhirAyah": "S3",
-        "NamaIbu": "Sheila Maharani Pratama",
-        "AlamatIbu": "Jl. Raya No. 2",
-        "TeleponIbu": "08123456789",
-        "PekerjaanIbu": "PNS",
-        "PendidikanTerakhirIbu": "S2"
+      {
+        "Personal": {
+          "Id": 2,
+          "Nama_panjang": "Aulia Rahmawati",
+          "Nama_panggilan": "Aulia",
+          "Tempat_tanggal_lahir": "Bandung, 25 Januari 1995",
+          "Alamat_KTP": "Jl. Merdeka No. 45",
+          "Divisi": "Divisi Information Technology",
+          "Agama": "Islam",
+          "Pendidikan_terakhir": "S2",
+          "Nama_universitas": "Universitas Indonesia",
+          "No_HP": "08198765432",
+          "Email": "aulia@gmail.com",
+          "No_KTP": "320456789123",
+          "NPWP": "MPAMS0194567-1234",
+          "Golongan_darah": "B",
+          "Role": "Application Analyst",
+          "Akun_instagram": "auliaHR",
+          "Akun_facebook": "AuliaR",
+          "Blog": "auliarahmawati.com",
+          "Perusahaan": "PT. ABC",
+          "Password": "Auli4P@ssw0rd",
+          "Id_device": true,
+          "NIP": "91287"
+        },
+        "Parents": {
+          "Nama_ayah": "Rahman Santoso",
+          "Alamat_ayah": "Jl. Sudirman No. 8",
+          "Telepon_ayah": "08156789012",
+          "Pekerjaan_ayah": "Karyawan Swasta",
+          "Pendidikan_terakhir_ayah": "S2",
+          "Nama_ibu": "Siti Aisyah",
+          "Alamat_ibu": "Jl. Sudirman No. 8",
+          "Telepon_ibu": "08156789012",
+          "Pekerjaan_ibu": "Ibu Rumah Tangga",
+          "Pendidikan_terakhir_ibu": "SMA"
+        },
+        "Bank": {
+          "Nama_Pemilik_bank": "Aulia",
+          "Nama_bank": "Mandiri",
+          "Kode_bank": "123",
+          "No_rekening": "123456789123",
+          "KCP": "Bandung"
+        },
+        "Address": {
+          "Alamat": "Jl. Merdeka No. 45"
+        },
+        "Emergency": {
+          "Nama_lengkap": "Fitri Handayani",
+          "Alamat": "Jl. Sukabumi No. 12",
+          "Hubungan": "Sahabat",
+          "Telepon": "08134567890"
+        }
       },
-      "Bank": {
-        "NamaPemilikBank": "Rizki",
-        "NamaBank": "BNI",
-        "KodeBank": "896",
-        "NoRekening": "981723616238",
-        "KCP": "Mandiri"
+      {
+        "Personal": {
+          "Id": 3,
+          "Nama_panjang": "Andi Pratama",
+          "Nama_panggilan": "Andi",
+          "Tempat_tanggal_lahir": "Surabaya, 5 Maret 1990",
+          "Alamat_KTP": "Jl. Mawar No. 99",
+          "Divisi": "Divisi Information Technology",
+          "Agama": "Kristen",
+          "Pendidikan_terakhir": "S1",
+          "Nama_universitas": "ITS Surabaya",
+          "No_HP": "08123456788",
+          "Email": "andi@gmail.com",
+          "No_KTP": "320789456123",
+          "NPWP": "MPAMS0197894-5678",
+          "Golongan_darah": "O",
+          "Role": "Data Engineer",
+          "Akun_instagram": "andiMarketing",
+          "Akun_facebook": "AndiP",
+          "Blog": "andipratama.com",
+          "Perusahaan": "PT. LMN",
+          "Password": "And1M4rk3t!ng",
+          "Id_device": "Rxakj6ia",
+          "NIP": "782162"
+        },
+        "Parents": {
+          "Nama_ayah": "Pratama Kusuma",
+          "Alamat_ayah": "Jl. Mawar No. 101",
+          "Telepon_ayah": "08123456789",
+          "Pekerjaan_ayah": "Wirausaha",
+          "Pendidikan_terakhir_ayah": "S1",
+          "Nama_ibu": "Maria Kristina",
+          "Alamat_ibu": "Jl. Mawar No. 101",
+          "Telepon_ibu": "08123456789",
+          "Pekerjaan_ibu": "PNS",
+          "Pendidikan_terakhir_ibu": "S1"
+        },
+        "Bank": {
+          "Nama_Pemilik_bank": "Andi",
+          "Nama_bank": "BCA",
+          "Kode_bank": "456",
+          "No_rekening": "456789123456",
+          "KCP": "Surabaya"
+        },
+        "Address": {
+          "Alamat": "Jl. Mawar No. 99"
+        },
+        "Emergency": {
+          "Nama_lengkap": "Dewi Anggraini",
+          "Alamat": "Jl. Anggrek No. 77",
+          "Hubungan": "Istri",
+          "Telepon": "08198765432"
+        }
       },
-      "Address": {
-        "Alamat": "Jl. Raya No. 1"
-      },
-      "Emergency": {
-        "NamaLengkap": "Kartika Sari Ayu",
-        "Alamat": "Jl. Pemuda No. 18",
-        "Hubungan": "Istri",
-        "Telepon": "0812341209386"
+      {
+        "Personal": {
+          "Id": 4,
+          "Nama_panjang": "Dina Amelia",
+          "Nama_panggilan": "Dina",
+          "Tempat_tanggal_lahir": "Medan, 15 Juli 1993",
+          "Alamat_KTP": "Jl. Kenanga No. 10",
+          "Divisi": "Divisi Information Technology",
+          "Agama": "Islam",
+          "Pendidikan_terakhir": "S2",
+          "Nama_universitas": "Universitas Sumatera Utara",
+          "No_HP": "08127654321",
+          "Email": "dina@gmail.com",
+          "No_KTP": "320654321987",
+          "NPWP": "MPAMS0196543-7890",
+          "Golongan_darah": "AB",
+          "Role": "General Service",
+          "Akun_instagram": "dinaFinance",
+          "Akun_facebook": "DinaA",
+          "Blog": "dinaamelia.com",
+          "Perusahaan": "PT. DEF",
+          "Password": "D1n@F1nanc3!",
+          "Id_device": true,
+          "NIP": "412357"
+        },
+        "Parents": {
+          "Nama_ayah": "Amelia Kusuma",
+          "Alamat_ayah": "Jl. Kenanga No. 11",
+          "Telepon_ayah": "08127654322",
+          "Pekerjaan_ayah": "Pengusaha",
+          "Pendidikan_terakhir_ayah": "S1",
+          "Nama_ibu": "Sri Hartati",
+          "Alamat_ibu": "Jl. Kenanga No. 11",
+          "Telepon_ibu": "08127654323",
+          "Pekerjaan_ibu": "Guru",
+          "Pendidikan_terakhir_ibu": "S1"
+        },
+        "Bank": {
+          "Nama_Pemilik_bank": "Dina",
+          "Nama_bank": "BRI",
+          "Kode_bank": "789",
+          "No_rekening": "789654321789",
+          "KCP": "Medan"
+        },
+        "Address": {
+          "Alamat": "Jl. Kenanga No. 10"
+        },
+        "Emergency": {
+          "Nama_lengkap": "Lia Pramesti",
+          "Alamat": "Jl. Melati No. 15",
+          "Hubungan": "Kakak",
+          "Telepon": "08123409876"
+        }
       }
-    },
-    {
-      "Personal": {
+    ],
+    "Kegiatan":[
+      {
         "Id": 2,
-        "NamaPanjang": "Aulia Rahmawati",
-        "NamaPanggilan": "Aulia",
-        "TempatTanggalLahir": "Bandung, 25 Januari 1995",
-        "AlamatKTP": "Jl. Merdeka No. 45",
-        "Divisi": "Divisi Information Technology",
-        "Agama": "Islam",
-        "PendidikanTerakhir": "S2",
-        "NamaUniversitas": "Universitas Indonesia",
-        "NoHp": "08198765432",
-        "Email": "aulia@gmail.com",
-        "NoKtp": "320456789123",
-        "Npwp": "MPAMS0194567-1234",
-        "GolonganDarah": "B",
-        "Role": "Application Analyst",
-        "AkunInstagram": "auliaHR",
-        "AkunFacebook": "AuliaR",
-        "Blog": "auliarahmawati.com",
-        "Perusahaan": "PT. ABC",
-        "Password": "Auli4P@ssw0rd",
-        "IdDevice": true,
-        "Nip": "91287"
+        "IdPekerja": "3",
+        "AddTask": "2024-12-08",
+        "Type": "Ticketing",
+        "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+        "Complexity": "Low",
+        "Target": "2025-01-20",
+        "Activities": {
+          "Start": "2024-12-10",
+          "End": "2025-01-21"
+        },
+        "PemberiTugas": "PMO",
+        "User": "Management Team",
+        "Status": "UAT",
+        "Catatan": ""
       },
-      "Parents": {
-        "NamaAyah": "Rahman Santoso",
-        "AlamatAyah": "Jl. Sudirman No. 8",
-        "TeleponAyah": "08156789012",
-        "PekerjaanAyah": "Karyawan Swasta",
-        "PendidikanTerakhirAyah": "S2",
-        "NamaIbu": "Siti Aisyah",
-        "AlamatIbu": "Jl. Sudirman No. 8",
-        "TeleponIbu": "08156789012",
-        "PekerjaanIbu": "Ibu Rumah Tangga",
-        "PendidikanTerakhirIbu": "SMA"
-      },
-      "Bank": {
-        "NamaPemilikBank": "Aulia",
-        "NamaBank": "Mandiri",
-        "KodeBank": "123",
-        "NoRekening": "123456789123",
-        "KCP": "Bandung"
-      },
-      "Address": {
-        "Alamat": "Jl. Merdeka No. 45"
-      },
-      "Emergency": {
-        "NamaLengkap": "Fitri Handayani",
-        "Alamat": "Jl. Sukabumi No. 12",
-        "Hubungan": "Sahabat",
-        "Telepon": "08134567890"
-      }
-    },
-    {
-      "Personal": {
+      {
         "Id": 3,
-        "NamaPanjang": "Andi Pratama",
-        "NamaPanggilan": "Andi",
-        "TempatTanggalLahir": "Surabaya, 5 Maret 1990",
-        "AlamatKTP": "Jl. Mawar No. 99",
-        "Divisi": "Divisi Information Technology",
-        "Agama": "Kristen",
-        "PendidikanTerakhir": "S1",
-        "NamaUniversitas": "ITS Surabaya",
-        "NoHp": "08123456788",
-        "Email": "andi@gmail.com",
-        "NoKtp": "320789456123",
-        "Npwp": "MPAMS0197894-5678",
-        "GolonganDarah": "O",
-        "Role": "Data Engineer",
-        "AkunInstagram": "andiMarketing",
-        "AkunFacebook": "AndiP",
-        "Blog": "andipratama.com",
-        "Perusahaan": "PT. LMN",
-        "Password": "And1M4rk3t!ng",
-        "IdDevice": "Rxakj6ia",
-        "Nip": "782162"
+        "IdPekerja": "3",
+        "AddTask": "2024-12-08",
+        "Type": "Ticketing",
+        "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+        "Complexity": "Low to Med",
+        "Target": "2025-01-20",
+        "Activities": {
+          "Start": "2024-12-10",
+          "End": "2025-01-21"
+        },
+        "PemberiTugas": "PMO",
+        "User": "Management Team",
+        "Status": "UAT",
+        "Catatan": ""
       },
-      "Parents": {
-        "NamaAyah": "Pratama Kusuma",
-        "AlamatAyah": "Jl. Mawar No. 101",
-        "TeleponAyah": "08123456789",
-        "PekerjaanAyah": "Wirausaha",
-        "PendidikanTerakhirAyah": "S1",
-        "NamaIbu": "Maria Kristina",
-        "AlamatIbu": "Jl. Mawar No. 101",
-        "TeleponIbu": "08123456789",
-        "PekerjaanIbu": "PNS",
-        "PendidikanTerakhirIbu": "S1"
-      },
-      "Bank": {
-        "NamaPemilikBank": "Andi",
-        "NamaBank": "BCA",
-        "KodeBank": "456",
-        "NoRekening": "456789123456",
-        "KCP": "Surabaya"
-      },
-      "Address": {
-        "Alamat": "Jl. Mawar No. 99"
-      },
-      "Emergency": {
-        "NamaLengkap": "Dewi Anggraini",
-        "Alamat": "Jl. Anggrek No. 77",
-        "Hubungan": "Istri",
-        "Telepon": "08198765432"
-      }
-    },
-    {
-      "Personal": {
+      {
         "Id": 4,
-        "NamaPanjang": "Dina Amelia",
-        "NamaPanggilan": "Dina",
-        "TempatTanggalLahir": "Medan, 15 Juli 1993",
-        "AlamatKTP": "Jl. Kenanga No. 10",
-        "Divisi": "Divisi Information Technology",
-        "Agama": "Islam",
-        "PendidikanTerakhir": "S2",
-        "NamaUniversitas": "Universitas Sumatera Utara",
-        "NoHp": "08127654321",
-        "Email": "dina@gmail.com",
-        "NoKtp": "320654321987",
-        "Npwp": "MPAMS0196543-7890",
-        "GolonganDarah": "AB",
-        "Role": "General Service",
-        "AkunInstagram": "dinaFinance",
-        "AkunFacebook": "DinaA",
-        "Blog": "dinaamelia.com",
-        "Perusahaan": "PT. DEF",
-        "Password": "D1n@F1nanc3!",
-        "IdDevice": true,
-        "Nip": "412357"
+        "IdPekerja": "3",
+        "AddTask": "2024-12-08",
+        "Type": "Ticketing",
+        "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+        "Complexity": "Medium",
+        "Target": "2025-01-20",
+        "Activities": {
+          "Start": "2024-12-10",
+          "End": "2025-01-21"
+        },
+        "PemberiTugas": "PMO",
+        "User": "Management Team",
+        "Status": "UAT",
+        "Catatan": ""
       },
-      "Parents": {
-        "NamaAyah": "Amelia Kusuma",
-        "AlamatAyah": "Jl. Kenanga No. 11",
-        "TeleponAyah": "08127654322",
-        "PekerjaanAyah": "Pengusaha",
-        "PendidikanTerakhirAyah": "S1",
-        "NamaIbu": "Sri Hartati",
-        "AlamatIbu": "Jl. Kenanga No. 11",
-        "TeleponIbu": "08127654323",
-        "PekerjaanIbu": "Guru",
-        "PendidikanTerakhirIbu": "S1"
+      {
+        "Id": 5,
+        "IdPekerja": "3",
+        "AddTask": "2024-12-09",
+        "Type": "Ticketing",
+        "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+        "Complexity": "Med to High",
+        "Target": "2025-01-20",
+        "Activities": {
+          "Start": "2024-12-10",
+          "End": "2025-01-21"
+        },
+        "PemberiTugas": "PMO",
+        "User": "Management Team",
+        "Status": "UAT",
+        "Catatan": ""
       },
-      "Bank": {
-        "NamaPemilikBank": "Dina",
-        "NamaBank": "BRI",
-        "KodeBank": "789",
-        "NoRekening": "789654321789",
-        "KCP": "Medan"
-      },
-      "Address": {
-        "Alamat": "Jl. Kenanga No. 10"
-      },
-      "Emergency": {
-        "NamaLengkap": "Lia Pramesti",
-        "Alamat": "Jl. Melati No. 15",
-        "Hubungan": "Kakak",
-        "Telepon": "08123409876"
+      {
+        "Id": 6,
+        "IdPekerja": "3",
+        "AddTask": "2024-12-09",
+        "Type": "Ticketing",
+        "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
+        "Complexity": "High",
+        "Target": "2025-01-20",
+        "Activities": {
+          "Start": "2024-12-10",
+          "End": "2025-01-21"
+        },
+        "PemberiTugas": "PMO",
+        "User": "Management Team",
+        "Status": "UAT",
+        "Catatan": ""
       }
-    }
-  ],
-  "Kegiatan":[
-    {
-      "Id": 2,
-      "IdPekerja": "3",
-      "AddTask": "2024-12-08",
-      "Type": "Ticketing",
-      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
-      "Complexity": "Low",
-      "Target": "2025-01-20",
-      "Activities": {
-        "Start": "2024-12-10",
-        "End": "2025-01-21"
-      },
-      "PemberiTugas": "PMO",
-      "User": "Management Team",
-      "Status": "UAT",
-      "Catatan": ""
-    },
-    {
-      "Id": 3,
-      "IdPekerja": "3",
-      "AddTask": "2024-12-08",
-      "Type": "Ticketing",
-      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
-      "Complexity": "Low to Med",
-      "Target": "2025-01-20",
-      "Activities": {
-        "Start": "2024-12-10",
-        "End": "2025-01-21"
-      },
-      "PemberiTugas": "PMO",
-      "User": "Management Team",
-      "Status": "UAT",
-      "Catatan": ""
-    },
-    {
-      "Id": 4,
-      "IdPekerja": "3",
-      "AddTask": "2024-12-08",
-      "Type": "Ticketing",
-      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
-      "Complexity": "Medium",
-      "Target": "2025-01-20",
-      "Activities": {
-        "Start": "2024-12-10",
-        "End": "2025-01-21"
-      },
-      "PemberiTugas": "PMO",
-      "User": "Management Team",
-      "Status": "UAT",
-      "Catatan": ""
-    },
-    {
-      "Id": 5,
-      "IdPekerja": "3",
-      "AddTask": "2024-12-09",
-      "Type": "Ticketing",
-      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
-      "Complexity": "Med to High",
-      "Target": "2025-01-20",
-      "Activities": {
-        "Start": "2024-12-10",
-        "End": "2025-01-21"
-      },
-      "PemberiTugas": "PMO",
-      "User": "Management Team",
-      "Status": "UAT",
-      "Catatan": ""
-    },
-    {
-      "Id": 6,
-      "IdPekerja": "3",
-      "AddTask": "2024-12-09",
-      "Type": "Ticketing",
-      "Deskripsi": "Check UAT report Monthly Aging PHMAA duplicate data sales and compare with qris",
-      "Complexity": "High",
-      "Target": "2025-01-20",
-      "Activities": {
-        "Start": "2024-12-10",
-        "End": "2025-01-21"
-      },
-      "PemberiTugas": "PMO",
-      "User": "Management Team",
-      "Status": "UAT",
-      "Catatan": ""
-    }
-  ]
-}
+    ]
+  }
+  
